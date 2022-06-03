@@ -7,7 +7,7 @@ LIST_OF_MASSAGES = []
 @app.route('/')
 def fa():
     return 'Messenger on Flask Framework is running'\
-            '<a href="/status">Check status</a>'
+            '<a href="/status">Check server status</a>'
 
 
 @app.route('/status')
