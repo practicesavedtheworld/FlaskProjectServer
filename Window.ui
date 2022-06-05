@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>439</width>
-    <height>381</height>
+    <width>770</width>
+    <height>546</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -20,43 +20,43 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>330</x>
-      <y>280</y>
-      <width>81</width>
-      <height>31</height>
+      <x>440</x>
+      <y>430</y>
+      <width>311</width>
+      <height>51</height>
      </rect>
     </property>
     <property name="text">
      <string>Отправить</string>
     </property>
    </widget>
-   <widget class="QListView" name="listView_1">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>280</y>
-      <width>271</width>
-      <height>31</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QListView" name="listView_2">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>250</y>
-      <width>131</width>
-      <height>21</height>
-     </rect>
-    </property>
-   </widget>
    <widget class="QListWidget" name="listWidget_1">
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>11</y>
-      <width>381</width>
-      <height>211</height>
+      <y>10</y>
+      <width>721</width>
+      <height>381</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>429</y>
+      <width>391</width>
+      <height>51</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>400</y>
+      <width>481</width>
+      <height>20</height>
      </rect>
     </property>
    </widget>
@@ -66,7 +66,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>439</width>
+     <width>770</width>
      <height>20</height>
     </rect>
    </property>
